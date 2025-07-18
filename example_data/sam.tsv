@@ -1,0 +1,6 @@
+alias	collection date	geographic location (country and/or sea)	host common name	host subject id	collecting institution	isolate	host scientific name	host health state	host sex	collector name	gisaid accession id
+10001	2024-10-01	Netherlands	Human	not provided	ErasmusMC	hCov-19/Netherlands/ZH-EMC-1001/2024-10-01	Homo sapiens	not provided	not provided	Dutch COVID-19 response team	EPI_ISL_00000001
+10002	2024-10-02	Netherlands	Human	not provided	ErasmusMC	hCov-19/Netherlands/NH-EMC-1002/2024-10-02	Homo sapiens	not provided	not provided	Dutch COVID-19 response team	EPI_ISL_00000002
+10003	2024-10-03	Netherlands	Human	not provided	ErasmusMC	hCov-19/Netherlands/UT-EMC-1003/2024-10-03	Homo sapiens	not provided	not provided	Dutch COVID-19 response team	EPI_ISL_00000003
+10004	2024-10-04	Netherlands	Human	not provided	ErasmusMC	hCov-19/Netherlands/ZH-EMC-1004/2024-10-04	Homo sapiens	not provided	not provided	Dutch COVID-19 response team	EPI_ISL_00000004
+10005	2024-10-05	Netherlands	Human	not provided	GGD Rotterdam	hCov-19/Netherlands/ZH-GGD-1005/2024-10-05	Homo sapiens	not provided	not provided	Dutch COVID-19 response team	EPI_ISL_00000005

@@ -1,0 +1,298 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SAMPLE_SET>
+  <SAMPLE alias="10001" center_name="Dutch COVID-19 response team">
+    <TITLE>SARS-CoV-2 sequence</TITLE>
+    <SAMPLE_NAME>
+      <TAXON_ID>2697049</TAXON_ID>
+      <SCIENTIFIC_NAME>Severe acute respiratory syndrome coronavirus 2</SCIENTIFIC_NAME>
+      <COMMON_NAME>Human coronavirus 2019</COMMON_NAME>
+    </SAMPLE_NAME>
+    <DESCRIPTION>A SARS-CoV-2 specfic multiplex PCR for Nanopore sequencing was performed, similar to amplicon-based approaches as previously described. In short, primers for 86 overlapping amplicons spanning the entire genome were designed using primal. The amplicon length was set to 500bp with 75bp overlap between the different amplicons. The libraries were generated using the native barcode kits from Nanopore (EXP-NBD104 and EXP-NBD114 and SQK-LSK109) and sequenced on a R9.4 flow cell multiplexing up to 24 samples per sequence run. Raw data was demultiplexed, amplicon primers were trimmed and human data was removed by mapping against the human reference genome.</DESCRIPTION>
+    <SAMPLE_ATTRIBUTES>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>collection date</TAG>
+        <VALUE>2024-10-01</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>geographic location (country and/or sea)</TAG>
+        <VALUE>Netherlands</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>host common name</TAG>
+        <VALUE>Human</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>host subject id</TAG>
+        <VALUE>not provided</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>collecting institution</TAG>
+        <VALUE>ErasmusMC</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>isolate</TAG>
+        <VALUE>hCov-19/Netherlands/ZH-EMC-1001/2024-10-01</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>host scientific name</TAG>
+        <VALUE>Homo sapiens</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>host health state</TAG>
+        <VALUE>not provided</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>host sex</TAG>
+        <VALUE>not provided</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>collector name</TAG>
+        <VALUE>Dutch COVID-19 response team</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>gisaid accession id</TAG>
+        <VALUE>EPI_ISL_00000001</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>ENA-CHECKLIST</TAG>
+        <VALUE>ERC000033</VALUE>
+      </SAMPLE_ATTRIBUTE>
+    </SAMPLE_ATTRIBUTES>
+  </SAMPLE>
+  <SAMPLE alias="10002" center_name="Dutch COVID-19 response team">
+    <TITLE>SARS-CoV-2 sequence</TITLE>
+    <SAMPLE_NAME>
+      <TAXON_ID>2697049</TAXON_ID>
+      <SCIENTIFIC_NAME>Severe acute respiratory syndrome coronavirus 2</SCIENTIFIC_NAME>
+      <COMMON_NAME>Human coronavirus 2019</COMMON_NAME>
+    </SAMPLE_NAME>
+    <DESCRIPTION>A SARS-CoV-2 specfic multiplex PCR for Nanopore sequencing was performed, similar to amplicon-based approaches as previously described. In short, primers for 86 overlapping amplicons spanning the entire genome were designed using primal. The amplicon length was set to 500bp with 75bp overlap between the different amplicons. The libraries were generated using the native barcode kits from Nanopore (EXP-NBD104 and EXP-NBD114 and SQK-LSK109) and sequenced on a R9.4 flow cell multiplexing up to 24 samples per sequence run. Raw data was demultiplexed, amplicon primers were trimmed and human data was removed by mapping against the human reference genome.</DESCRIPTION>
+    <SAMPLE_ATTRIBUTES>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>collection date</TAG>
+        <VALUE>2024-10-02</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>geographic location (country and/or sea)</TAG>
+        <VALUE>Netherlands</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>host common name</TAG>
+        <VALUE>Human</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>host subject id</TAG>
+        <VALUE>not provided</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>collecting institution</TAG>
+        <VALUE>ErasmusMC</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>isolate</TAG>
+        <VALUE>hCov-19/Netherlands/NH-EMC-1002/2024-10-02</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>host scientific name</TAG>
+        <VALUE>Homo sapiens</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>host health state</TAG>
+        <VALUE>not provided</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>host sex</TAG>
+        <VALUE>not provided</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>collector name</TAG>
+        <VALUE>Dutch COVID-19 response team</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>gisaid accession id</TAG>
+        <VALUE>EPI_ISL_00000002</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>ENA-CHECKLIST</TAG>
+        <VALUE>ERC000033</VALUE>
+      </SAMPLE_ATTRIBUTE>
+    </SAMPLE_ATTRIBUTES>
+  </SAMPLE>
+  <SAMPLE alias="10003" center_name="Dutch COVID-19 response team">
+    <TITLE>SARS-CoV-2 sequence</TITLE>
+    <SAMPLE_NAME>
+      <TAXON_ID>2697049</TAXON_ID>
+      <SCIENTIFIC_NAME>Severe acute respiratory syndrome coronavirus 2</SCIENTIFIC_NAME>
+      <COMMON_NAME>Human coronavirus 2019</COMMON_NAME>
+    </SAMPLE_NAME>
+    <DESCRIPTION>A SARS-CoV-2 specfic multiplex PCR for Nanopore sequencing was performed, similar to amplicon-based approaches as previously described. In short, primers for 86 overlapping amplicons spanning the entire genome were designed using primal. The amplicon length was set to 500bp with 75bp overlap between the different amplicons. The libraries were generated using the native barcode kits from Nanopore (EXP-NBD104 and EXP-NBD114 and SQK-LSK109) and sequenced on a R9.4 flow cell multiplexing up to 24 samples per sequence run. Raw data was demultiplexed, amplicon primers were trimmed and human data was removed by mapping against the human reference genome.</DESCRIPTION>
+    <SAMPLE_ATTRIBUTES>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>collection date</TAG>
+        <VALUE>2024-10-03</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>geographic location (country and/or sea)</TAG>
+        <VALUE>Netherlands</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>host common name</TAG>
+        <VALUE>Human</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>host subject id</TAG>
+        <VALUE>not provided</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>collecting institution</TAG>
+        <VALUE>ErasmusMC</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>isolate</TAG>
+        <VALUE>hCov-19/Netherlands/UT-EMC-1003/2024-10-03</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>host scientific name</TAG>
+        <VALUE>Homo sapiens</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>host health state</TAG>
+        <VALUE>not provided</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>host sex</TAG>
+        <VALUE>not provided</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>collector name</TAG>
+        <VALUE>Dutch COVID-19 response team</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>gisaid accession id</TAG>
+        <VALUE>EPI_ISL_00000003</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>ENA-CHECKLIST</TAG>
+        <VALUE>ERC000033</VALUE>
+      </SAMPLE_ATTRIBUTE>
+    </SAMPLE_ATTRIBUTES>
+  </SAMPLE>
+  <SAMPLE alias="10004" center_name="Dutch COVID-19 response team">
+    <TITLE>SARS-CoV-2 sequence</TITLE>
+    <SAMPLE_NAME>
+      <TAXON_ID>2697049</TAXON_ID>
+      <SCIENTIFIC_NAME>Severe acute respiratory syndrome coronavirus 2</SCIENTIFIC_NAME>
+      <COMMON_NAME>Human coronavirus 2019</COMMON_NAME>
+    </SAMPLE_NAME>
+    <DESCRIPTION>A SARS-CoV-2 specfic multiplex PCR for Nanopore sequencing was performed, similar to amplicon-based approaches as previously described. In short, primers for 86 overlapping amplicons spanning the entire genome were designed using primal. The amplicon length was set to 500bp with 75bp overlap between the different amplicons. The libraries were generated using the native barcode kits from Nanopore (EXP-NBD104 and EXP-NBD114 and SQK-LSK109) and sequenced on a R9.4 flow cell multiplexing up to 24 samples per sequence run. Raw data was demultiplexed, amplicon primers were trimmed and human data was removed by mapping against the human reference genome.</DESCRIPTION>
+    <SAMPLE_ATTRIBUTES>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>collection date</TAG>
+        <VALUE>2024-10-04</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>geographic location (country and/or sea)</TAG>
+        <VALUE>Netherlands</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>host common name</TAG>
+        <VALUE>Human</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>host subject id</TAG>
+        <VALUE>not provided</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>collecting institution</TAG>
+        <VALUE>ErasmusMC</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>isolate</TAG>
+        <VALUE>hCov-19/Netherlands/ZH-EMC-1004/2024-10-04</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>host scientific name</TAG>
+        <VALUE>Homo sapiens</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>host health state</TAG>
+        <VALUE>not provided</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>host sex</TAG>
+        <VALUE>not provided</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>collector name</TAG>
+        <VALUE>Dutch COVID-19 response team</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>gisaid accession id</TAG>
+        <VALUE>EPI_ISL_00000004</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>ENA-CHECKLIST</TAG>
+        <VALUE>ERC000033</VALUE>
+      </SAMPLE_ATTRIBUTE>
+    </SAMPLE_ATTRIBUTES>
+  </SAMPLE>
+  <SAMPLE alias="10005" center_name="Dutch COVID-19 response team">
+    <TITLE>SARS-CoV-2 sequence</TITLE>
+    <SAMPLE_NAME>
+      <TAXON_ID>2697049</TAXON_ID>
+      <SCIENTIFIC_NAME>Severe acute respiratory syndrome coronavirus 2</SCIENTIFIC_NAME>
+      <COMMON_NAME>Human coronavirus 2019</COMMON_NAME>
+    </SAMPLE_NAME>
+    <DESCRIPTION>A SARS-CoV-2 specfic multiplex PCR for Nanopore sequencing was performed, similar to amplicon-based approaches as previously described. In short, primers for 86 overlapping amplicons spanning the entire genome were designed using primal. The amplicon length was set to 500bp with 75bp overlap between the different amplicons. The libraries were generated using the native barcode kits from Nanopore (EXP-NBD104 and EXP-NBD114 and SQK-LSK109) and sequenced on a R9.4 flow cell multiplexing up to 24 samples per sequence run. Raw data was demultiplexed, amplicon primers were trimmed and human data was removed by mapping against the human reference genome.</DESCRIPTION>
+    <SAMPLE_ATTRIBUTES>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>collection date</TAG>
+        <VALUE>2024-10-05</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>geographic location (country and/or sea)</TAG>
+        <VALUE>Netherlands</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>host common name</TAG>
+        <VALUE>Human</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>host subject id</TAG>
+        <VALUE>not provided</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>collecting institution</TAG>
+        <VALUE>GGD Rotterdam</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>isolate</TAG>
+        <VALUE>hCov-19/Netherlands/ZH-GGD-1005/2024-10-05</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>host scientific name</TAG>
+        <VALUE>Homo sapiens</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>host health state</TAG>
+        <VALUE>not provided</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>host sex</TAG>
+        <VALUE>not provided</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>collector name</TAG>
+        <VALUE>Dutch COVID-19 response team</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>gisaid accession id</TAG>
+        <VALUE>EPI_ISL_00000005</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>ENA-CHECKLIST</TAG>
+        <VALUE>ERC000033</VALUE>
+      </SAMPLE_ATTRIBUTE>
+    </SAMPLE_ATTRIBUTES>
+  </SAMPLE>
+</SAMPLE_SET>

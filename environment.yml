@@ -1,0 +1,22 @@
+# Conda environment for the SARS-CoV-2 Submission Pipeline
+#
+# To create this environment, run:
+#   conda env create -f environment.yml
+#
+# To activate the environment, run:
+#   conda activate sars-submission-env
+#
+name: sars-submission-env
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.13
+  - pandas
+  - xlrd
+  - openpyxl
+  - tqdm
+  - lxml
+  - lftp
